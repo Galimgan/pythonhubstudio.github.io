@@ -1,0 +1,30 @@
+  /* div tegy 1
+  классы  10
+  id  100
+  style #--- tege#  1000 */
+
+  .main.border-div {
+    background-color: aqua; 
+    border-style: dotted ;
+   }
+
+
+  .main  {
+    background-color: rgb(181, 163, 163);
+  }
+  .border-div {
+    border-style: solid !important;
+  }
+  
+ .main p {
+  font-size:30px ;
+ }
+  
+  
+  
+   
+  
+
+  
+   
+   
